@@ -66,6 +66,6 @@ The dashboard visualizes business data using **KPI cards, charts, and filters**,
 
 ## Deployed Link
 
-- **Live Link:** []
+- **Live Link:** [https://appify-devs-assignment-livid.vercel.app/]
 
 ---
