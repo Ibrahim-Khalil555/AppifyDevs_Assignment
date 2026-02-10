@@ -56,11 +56,11 @@ Charts stack vertically on small screens
 
 ## Assumptions
 
-Dashboard consumes static JSON instead of real backend API.
+- Dashboard consumes static JSON instead of real backend API.
 
-No authentication here.
+- No authentication here.
 
-Data filters update both charts and KPI cards.
+- Data filters update both charts and KPI cards.
 
 ---
 
