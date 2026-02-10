@@ -8,7 +8,7 @@ The dashboard visualizes business data using **KPI cards, charts, and filters**,
 ## Setup Instructions
 
 1. **Clone the repository**
-2. `git clone <your-repo-url>`
+2. `git clone <repo-url>`
 3. `cd AppifyDevs_Assignment`
 4. `npm install`
 5. `npm run dev`
