@@ -36,9 +36,9 @@ The dashboard visualizes business data using **KPI cards, charts, and filters**,
 
 - **Redux for State:**
 
-Filter values (dateRange, userType).
+&rarr; Filter values (dateRange, userType).
 
-Dynamic dashboard data (KPICards & charts).
+&rarr; Dynamic dashboard data (KPICards & charts).
 
 - **Tailwind CSS:** Utility-first styling for clean layout & responsiveness.
 
@@ -48,9 +48,9 @@ Dynamic dashboard data (KPICards & charts).
 
 - **Responsive Layout:**
 
-Sidebar collapses on mobile.
+&rarr; Sidebar collapses on mobile.
 
-Charts stack vertically on small screens
+&rarr; Charts stack vertically on small screens
 
 ---
 
