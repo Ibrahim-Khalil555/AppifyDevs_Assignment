@@ -8,10 +8,10 @@ The dashboard visualizes business data using **KPI cards, charts, and filters**,
 ## Setup Instructions
 
 1. **Clone the repository**
-   git clone <your-repo-url>
-   cd analytics-dashboard
-   npm install
-   npm run dev
+2. git clone <your-repo-url>
+3. cd analytics-dashboard
+4. npm install
+5. npm run dev
 
 ---
 
